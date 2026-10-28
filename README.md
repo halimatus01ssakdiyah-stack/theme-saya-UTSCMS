@@ -42,9 +42,15 @@ Repository ini berisi kode tema WordPress yang dikembangkan untuk memenuhi Ujian
 ---
 
 ## Bukti Tampilan Website
-### 1. Halaman Utama (Home / Blog)
-![Screenshot Halaman Utama](Screenshot%20Halaman%20Utama%20(1).png)
+### 1. Bukti Tema Berhasil Diaktifkan di Dashboard WordPress
+![Bukti Tema Aktif](Screenshot%20Tema%20Aktif.png)
 
-### 2. Halaman Detail Artikel (Single Post)
-![Screenshot Halaman Detail Artikel](Screenshot%20Halaman%20Detail%20Artikel.png)
+### 2. Halaman Utama (Bagian Atas & Sidebar)
+![Screenshot Halaman Utama 1](Screenshot%20Halaman%20Utama%20(1).png)
+
+### 3. Halaman Utama (Bagian Bawah & Footer)
+![Screenshot Halaman Utama 2](Screenshot%20Halaman%20Utama%20(2).png)
+
+### 4. Halaman Detail Artikel (Single Post)
+![Screenshot Detail Artikel](Screenshot%20Halaman%20Detail%20Artikel.png)
 
